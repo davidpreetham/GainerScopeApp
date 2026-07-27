@@ -19,14 +19,23 @@ The application provides a visual dashboard for **learning and researching marke
 ## Features
 
 ✅ Windows desktop GUI application
+
 ✅ S&P 500 company scanner
+
 ✅ Background scanning (UI remains responsive)
+
 ✅ Daily gain filtering
+
 ✅ Relative volume filtering
+
 ✅ Momentum view
+
 ✅ Stock activity explorer
+
 ✅ CSV export capability
+
 ✅ Simple educational market metrics dashboard
+
 
 ## Screenshots
 
